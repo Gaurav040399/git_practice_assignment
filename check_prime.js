@@ -1,7 +1,7 @@
-let num=14;
+let number=43;
 let factor=0;
-for(let i=1; i<=num; i++){
-if(num%1==0){
+for(let i=1; i<=number; i++){
+if(number%i==0){
 factor++;
 }
 }
