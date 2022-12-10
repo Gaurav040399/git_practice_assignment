@@ -1,7 +1,7 @@
 let num=14;
 let factor=0;
 for(let i=1; i<=num; i++){
-if(num%1==0){
+if(num%i==0){
 factor++;
 }
 }
