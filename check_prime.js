@@ -6,7 +6,7 @@ factor++;
 }
 }
 if(factor==2){
-console.log("Yes");
+console.log("Yes it is prime");
 }else{
-console.log('No")
-}
+console.log('No it is not a prime");
+};
