@@ -9,4 +9,4 @@ if(factor==2){
 console.log("Yes it is prime");
 }else{
 console.log('No it is not a prime");
-}
+};
